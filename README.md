@@ -8,18 +8,18 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 🌱 Currently learning **Java, DSA, Web Development, and AI/ML**
+- 🌱 Currently learning **Java, DSA, Web Development**
 - 💡 Interested in **Artificial Intelligence, Machine Learning, and Full-Stack Development**
 - 🚀 Building projects to improve my development skills
 - 📚 Consistently learning through certifications and hands-on projects
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: vanishatiwari831@gmail.com
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+<a href="["](https://www.linkedin.com/in/vanisha-tiwari-1b7525372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
@@ -44,61 +44,23 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=vanisha042006&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vanisha042006&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanisha042006&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=vanish042006&theme=tokyonight&margin-w=15)
 
 ---
 
-### 📌 Featured Projects
 
-#### 🌦 Weather App
-- Real-time weather updates using API
-- HTML, CSS, JavaScript
-
-#### ✅ To-Do List App
-- Task management application
-- Local Storage support
-
-#### 🎨 Portfolio Website
-- Personal portfolio website
-- Responsive design
-
-#### 🤖 AI/ML Project
-- Machine Learning model using Python
-- Data analysis and visualization
-
----
-
-### 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
-
----
-
-### 💬 Quote
-
-> "Code. Learn. Build. Repeat."
 
 ⭐ Thanks for visiting my profile!
-**vanisha042006/vanisha042006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
