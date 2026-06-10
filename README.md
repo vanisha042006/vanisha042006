@@ -1,65 +1,43 @@
-# Hi,I'm Vanisha Tiwari👋
+# Hi 👋, I'm Vanisha Tiwari
 
-<!--<h1 align="center">Hi 👋, I'm Vanisha Tiwari</h1>
-<h3 align="center">B.Tech CSE Student | Java Learner | AI/ML Enthusiast | Web Developer</h3>
+### B.Tech CSE Student | Java Learner | AI/ML Enthusiast | Web Developer
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🌱 Currently learning **Java, DSA, Web Development**
-- 💡 Interested in **Artificial Intelligence, Machine Learning, and Full-Stack Development**
-- 🚀 Building projects to improve my development skills
-- 📚 Consistently learning through certifications and hands-on projects
-- 📫 Reach me at: vanishatiwari831@gmail.com
+* 🎓 B.Tech Computer Science Engineering Student
+* 💻 Learning Java, Data Structures & Algorithms, Web Development, and AI/ML
+* 🚀 Passionate about building real-world projects
+* 🌱 Continuously improving my coding and problem-solving skills
+* 🤝 Open to learning, collaboration, and internship opportunities
 
----
+## 🛠 Skills
 
- 🌐 Connect With Me
-
-<p align="left">
-<a href="["](https://www.linkedin.com/in/vanisha-tiwari-1b7525372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
-
----
-
-🚀 Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
----
-
- 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vanisha042006&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vanisha042006&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanisha042006&layout=compact&theme=tokyonight)
-
----
-
-🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vanish042006&theme=tokyonight&margin-w=15)
-
----
+* Java
+* HTML
+* CSS
+* JavaScript
+* Python
+* Git & GitHub
+* MySQL
 
 
+## 📊 Currently Learning
 
-⭐ Thanks for visiting my profile!
+* Data Structures & Algorithms
+* Full Stack Web Development
+* Artificial Intelligence & Machine Learning
+* Git & GitHub
+
+## 🌐 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/your-linkedin-id](http://www.linkedin.com/in/vanisha-tiwari-1b7525372?utm)
+* GitHub: github.com/vanisha042006
+* Email: [your-email@example.com](mailto:your-vanishatiwari831@gmail.com)
+
+## 💬 Quote
+
+"Code. Learn. Build. Repeat."
+
 
 
 
