@@ -1,4 +1,4 @@
-## Hi there 👋
+#Hi,I'm Vanisha Tiwari👋
 
 <!--<h1 align="center">Hi 👋, I'm Vanisha Tiwari</h1>
 <h3 align="center">B.Tech CSE Student | Java Learner | AI/ML Enthusiast | Web Developer</h3>
