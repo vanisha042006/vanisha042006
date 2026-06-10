@@ -4,8 +4,7 @@
 <h3 align="center">B.Tech CSE Student | Java Learner | AI/ML Enthusiast | Web Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👩‍💻 About Me
+👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 🌱 Currently learning **Java, DSA, Web Development**
@@ -16,7 +15,7 @@
 
 ---
 
-### 🌐 Connect With Me
+ 🌐 Connect With Me
 
 <p align="left">
 <a href="["](https://www.linkedin.com/in/vanisha-tiwari-1b7525372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) target="blank">
@@ -26,7 +25,7 @@
 
 ---
 
-### 🚀 Languages and Tools
+🚀 Languages and Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
@@ -42,7 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=vanisha042006&show_icons=true&theme=tokyonight)
 
@@ -52,7 +51,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=vanish042006&theme=tokyonight&margin-w=15)
 
